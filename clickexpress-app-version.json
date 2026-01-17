@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "buildNumber": 10,
-  "apkUrl": "https://github.com/JZ-TECH-SYS/clickexpress-app-releases/releases/download/v1.0.9/clickexpress-app-release.apk",
+  "apkUrl": "https://github.com/JZ-TECH-SYS/clickexpress-app-releases/releases/download/v1.0.10/clickexpress-app-release.apk",
   "forceUpdate": false,
-  "releaseNotes": "Atualização disponível para a versão 1.0.9"
+  "releaseNotes": "Atualização disponível para a versão 1.0.10"
 }
